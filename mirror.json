@@ -1,0 +1,12 @@
+{
+  "appPackageName": "com.android5.ai",
+  "appLatestVersion": "2.0",
+  "appLatestCodeVersion": 50,
+  "googleIcon": "google.png",
+  "openaiIcon": "openai.png",
+  "openrouterIcon": "openrouter.png",
+  "updateStatus": "ongoing",
+  "updateRequired": false,
+  "updateLinkAvailable": false,
+  "downloadUrl": "N/A"
+}
